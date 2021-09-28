@@ -1,4 +1,39 @@
+body
+{
+    background-image:url(Images/codebackground.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 h1
 {
     text-align: center;
+    color: white;
+}
+p
+{
+    color: white;
+}
+.blue
+{
+    border: 1em cornflowerblue solid;   
+}
+.jumbotron
+{
+    width: 75%;
+    padding: 5em;
+    margin: auto;   
+}
+.card-body
+{
+    background-color: black;
+    margin: auto;
+}
+.card-title 
+{
+    color: white;
+}
+.card-text
+{
+    color: white;
 }
